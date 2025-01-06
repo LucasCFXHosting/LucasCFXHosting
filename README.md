@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, Je suis Lucas</h1>
 <h3 align="center">Developer and Network Engineer</h3>
 
-<p align="left"> <a href="https://twitter.com/cfxhosting" target="blank"><img src="https://img.shields.io/twitter/follow/cfxhosting?logo=twitter&style=for-the-badge" alt="cfxhosting" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fivemshield" target="blank"><img src="https://img.shields.io/twitter/follow/cfxhosting?logo=twitter&style=for-the-badge" alt="cfxhosting" /></a> </p>
 
 - 🔭 Je travaille actuellement sur [FiveMShield](https://fivemshield.net)
 
@@ -9,7 +9,7 @@
 
 - 📫 Comment me contacter ? **lucas@cfxhosting.fr**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
 <a href="https://twitter.com/cfxhosting" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cfxhosting" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/cfxhosting" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cfxhosting" height="30" width="40" /></a>
