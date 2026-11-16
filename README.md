@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Lucas</h1>
-<h3 align="center">Developer and network engineer</h3>
+<h3 align="center">Founder & CEO | Network Security & DDoS Mitigation | Infrastructure Engineer | Entrepreneur</h3>
 
 <p align="left"> <a href="https://x.com/fivemshield" target="blank"><img src="https://img.shields.io/twitter/follow/fivemshield?logo=twitter&style=for-the-badge" alt="FIVEMSHIELD" /></a> </p>
 
-- 🔭 I am currently working on [FIVEMSHIELD](https://fivemshield.net)
+- 🔭 I am currently working on [FIVEMSHIELD](https://fivemshield.net) & [FILTERCORE](https://filtercore.net)
 
 - 💬 I can help you with **Development, Networking, SEO, Anti-DDoS**
 
