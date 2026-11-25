@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Lucas</h1>
 <h3 align="center">Founder & CEO | Network Security & DDoS Mitigation | Infrastructure Engineer | Entrepreneur</h3>
 
-<p align="left"> <a href="https://x.com/fivemshield" target="blank"><img src="https://img.shields.io/twitter/follow/fivemshield?logo=twitter&style=for-the-badge" alt="FIVEMSHIELD" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/lucas-azala-8916b22a8/" target="blank"><img src="https://solnum.b-cdn.net/wp-content/uploads/2015/01/linkedin-1424358279.png" alt="LINKEDIN" /></a> </p>
 
 - 🔭 I am currently working on [FIVEMSHIELD](https://fivemshield.net) & [FILTERCORE](https://filtercore.net)
 
