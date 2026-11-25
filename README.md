@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Lucas</h1>
 <h3 align="center">Founder & CEO | Network Security & DDoS Mitigation | Infrastructure Engineer | Entrepreneur</h3>
 
-<p align="left"> <a href="https://www.linkedin.com/in/lucas-azala-8916b22a8/" target="blank"><img src="https://solnum.b-cdn.net/wp-content/uploads/2015/01/linkedin-1424358279.png" alt="LINKEDIN" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/lucas-azala-8916b22a8/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkyOCAxLjYzNy0yLjAxNyAzLjM3LTIuMDE3IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn" /></a> </p>
 
 - 🔭 I am currently working on [FIVEMSHIELD](https://fivemshield.net) & [FILTERCORE](https://filtercore.net)
 
